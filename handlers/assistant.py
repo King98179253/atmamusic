@@ -22,7 +22,7 @@ async def join_chat(c: Client, m: Message):
             (await user.get_me()).id,
             can_manage_voice_chats=True
         )
-        return await user.send_message(chat_id, "✅ userbot entered chat")
+        return await user.send_message(chat_id, "✅ TU MUSIC CHLA MAI AA LIYA🔥")
     except UserAlreadyParticipant:
         admin = await m.chat.get_member((await user.get_me()).id)
         if not admin.can_manage_voice_chats:
@@ -30,5 +30,5 @@ async def join_chat(c: Client, m: Message):
                 (await user.get_me()).id,
                 can_manage_voice_chats=True
             )
-            return await user.send_message(chat_id, "✅ userbot already in chat")
-        return await user.send_message(chat_id, "✅ userbot already in chat")
+            return await user.send_message(chat_id, "✅ MAI PHALY SE JOIN HU💋")
+        return await user.send_message(chat_id, "✅ HEHE MAI PHALY SE HU YHA LOL😚")
