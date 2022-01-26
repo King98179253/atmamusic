@@ -21,7 +21,7 @@ async def start_(client: Client, message: Message):
 ┣★𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :- [↗️𝐂𝐋𝐈𝐂𝐊↗️](https://t.me/BHATAKTI_ATMA_SUPPORT)
 ┣★𝐆𝐈𝐕𝐄 𝐀 :-  [✨𝐇𝐄𝐀𝐑𝐓💜](https://t.me/A_BUT/32)
 ┗━━━━━━━━━━━━━━━━━┛
-𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [𝗠𝗿'𝗦𝗺𝗢𝗸𝗲𝗿 🚬 ❤️](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)**""",
+𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [𝐁𝐇𝐀𝐓𝐀𝐊𝐓𝐈 𝐀𝐓𝐌𝐀 👻](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
